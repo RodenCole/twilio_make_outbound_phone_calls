@@ -9,6 +9,9 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+
+# Environment variables
+.env
 .eggs/
 lib/
 lib64/
