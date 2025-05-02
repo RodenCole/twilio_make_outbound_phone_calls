@@ -33,9 +33,15 @@ ENV/
 
 # IDE
 .idea/
+
+# VS Code
 .vscode/
+
 *.swp
 *.swo
+
+# Azure Functions
+.funcignore
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -52,3 +58,5 @@ logs/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+.python_packages
